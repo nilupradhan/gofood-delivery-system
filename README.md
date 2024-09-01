@@ -15,7 +15,7 @@ GoFood is a dynamic and user-friendly food delivery system built using the MERN 
 
 - **Frontend:** React, Redux for state management, CSS3, HTML5
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB for storing user data, orders, and restaurant details
+- **Database:** MongoDB for storing user data, orders.
 - **Authentication:** JWT (JSON Web Token)
 - **Real-Time Updates:** WebSockets or polling for live order tracking
 
@@ -23,7 +23,7 @@ GoFood is a dynamic and user-friendly food delivery system built using the MERN 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/gofood-delivery-system.git
+   git clone https://github.com/nilupradhan/gofood-delivery-system.git
    ```
 
 2. Navigate to the project directory:
