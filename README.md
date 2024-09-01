@@ -28,7 +28,7 @@ GoFood is a dynamic and user-friendly food delivery system built using the MERN 
 
 2. Navigate to the project directory:
    ```bash
-   cd gofood-delivery-system
+   cd mernapp
    ```
 
 3. Install the dependencies:
